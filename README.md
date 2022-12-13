@@ -4,10 +4,10 @@
 
 <img width="400" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="animated"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumansauravmay&label=Profile%20views&color=0e75b6&style=flat" alt="sumansauravmay" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumansauravmay&label=Profile%20views&color=0e75b6&style=flat" alt="sumansauravmay" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumansauravmay" alt="sumansauravmay" /></a> </p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumansauravmay" alt="sumansauravmay" /></a> </p> -->
+# 💫 About Me:
 - 🌱 I’m currently learning **Frontend Technology**
 
 - 👨‍💻 All of my projects are available at [https://sumansauravmay.github.io/](https://sumansauravmay.github.io/)
