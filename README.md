@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumansauravmay" alt="sumansauravmay" /></a> </p>
 
-- 🌱 I’m currently learning **Node js**
+- 🌱 I’m currently learning **Frontend Technology**
 
 - 👨‍💻 All of my projects are available at [https://sumansauravmay.github.io/](https://sumansauravmay.github.io/)
 
-- 💬 Ask me about **Mern Stack**
+- 💬 Ask me about **HTML,CSS,JS,React.js,Next.js,Redux,Storybook,Typescript**
 
 - 📫 How to reach me **sumansauravmay12345@gmail.com**
 
