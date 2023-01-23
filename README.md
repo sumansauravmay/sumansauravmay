@@ -31,7 +31,7 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumansauravmay&show_icons=true&locale=en" alt="sumansauravmay" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumansauravmay&" alt="sumansauravmay" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumansauravmay" alt="sumansauravmay" /></p>
 
 ## 🏆 GitHub Trophies
 <!-- <h2 align="center">🏆 GitHub Trophies</h2> -->
