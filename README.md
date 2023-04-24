@@ -12,7 +12,7 @@
 - 💬 Ask me about **HTML,CSS,JS,React.js,Next.js,Redux,Storybook,Typescript**
 
 - 📫 How to reach me **sumansauravmay12345@gmail.com**
-- 📄 <a href="https://drive.google.com/file/d/1d9v40G0kmg4YdU5Tk1duJJe1QE3ViFll/view?usp=sharing">Resume</a>    
+- 📄 <a href="https://drive.google.com/file/d/1Tv3HSSDTTPv5fnBq8NfS3RckH7ornwNi/view?usp=sharing">Resume</a>    
 - 📄 <a href="https://sumansauravmay.github.io/">Portfolio</a> 
 - 📄 <a href="https://www.linkedin.com/in/suman-saurav-06896b231/">LinkedIn</a> 
 <!-- <h3 align="left">Connect with me:</h3>
