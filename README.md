@@ -5,7 +5,7 @@
 <img width="400" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="animated"/>
 
 # 💫 About Me:
-- 🌱 I’m a **MERN developer**
+- 🌱 I’m a **MERN developer** and have around a year of front-end experience.
 
 - 👨‍💻 All of my projects are available at [https://sumansauravmay.github.io/](https://sumansauravmay.github.io/)
 
