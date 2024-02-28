@@ -5,11 +5,11 @@
 <img width="400" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="animated"/>
 
 # 💫 About Me:
-- 🌱 I’m currently learning **Frontend Technology**
+- 🌱 I’m a **MERN developer**
 
 - 👨‍💻 All of my projects are available at [https://sumansauravmay.github.io/](https://sumansauravmay.github.io/)
 
-- 💬 Ask me about **HTML,CSS,JS,React.js,Next.js,Redux,Storybook,Typescript**
+- 💬 Ask me about **HTML, CSS, JS, React.js, Next.js, Redux, Storybook, Typescript**
 
 - 📫 How to reach me **sumansauravmay12345@gmail.com**
 - 📄 <a href="https://drive.google.com/file/d/1Tv3HSSDTTPv5fnBq8NfS3RckH7ornwNi/view?usp=sharing">Resume</a>    
